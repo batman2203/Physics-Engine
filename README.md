@@ -1,2 +1,2 @@
 # Physics-Engine
-Just made the repo, goal is to make a physics engine in python with gui dat will be later added
+Made an n fixed , m movable particle simulator,,  if u got time may u de bug ?
